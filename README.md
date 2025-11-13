@@ -1,2 +1,2 @@
 # git-tutorial-repo
-author -Muhammad Noman
+author -Muhammad Noman(nomi)
